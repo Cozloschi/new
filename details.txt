@@ -1,0 +1,50 @@
+Ghost button: width:240 height:50 border:1px solid white;
+font: alright thin 18px
+content center width:950px;
+links: font;Alright Sans regulat 18px; white
+we make bea...font size: Medium alright 36px;
+
+
+
+page2:
+
+Title font:alright regular 24px; CAPSLOCK:ON color:423572
+description font: thin 24: color:423572
+
+
+page3:
+
+responsive theme title:font size: Medium alright 36px; color:423572
+descrition:18px thin
+selection circle:unselected: width:12px; height:12px; color:2d2256
+selected:color:31899f
+
+page4:
+title font:medium 36px. white
+description:thin 18.
+
+ghost button:240x50 border:1px solid white
+font:18px thin
+
+grey bg:1b1b1b:
+twitter bg:55acee
+facebook bg:2d2256
+
+page5:
+title:medium: 36px; color:423572
+
+
+input:580px;40px;1 px solid 423572
+font:thin 18px;423572
+
+subs button :200px height:40px; 1px solid
+423572
+
++google map
+location :uninted states :medium 36px; color:423572
+
+
+footer
+
+65px;
+font:thin 18px color:423572

@@ -1,0 +1,98 @@
+Okay Type & Design
+End User License Agreement
+Version 2.0
+December 2009
+
+This is a legal agreement between you, the purchaser, and Okay Type & Design LLC (Okay Type). By completing your purchase, you acknowledge understanding the terms below and promise to comply with them. If you do not wish to enter into this agreement, do not complete your purchase or download Okay Type fonts.
+
+What you are purchasing is a non-exclusive license to use digital typeface software (fonts) from Okay Type on a specific number of computers within your organization. You are not purchasing the copyright to the design of the fonts, only the permission to use it.
+
+USERS
+Okay Type allows you 
+
+MULTI-USER LICENSING TABLE
+ 1 License = Authorized for 1 to 4 computers
+ 2 Licenses = Authorized for 5 to 9 computers
+ 3 Licenses = Authorized for 10 to 24 computers
+ 4 Licenses = Authorized for 25 to 49 computers
+ 5 Licenses = Authorized for 50 to 99 computers
+10 Licenses = Authorized for 100 to 499 computers
+20 Licenses = Authorized for 500 to 1,499 computers
+30 Licenses = Authorized for 1,500 to 4,999 computers
+40 Licenses = Authorized for 5,000 to 9,999 computers
+50 Licenses = Authorized for 10,000+ computers
+
+LOCATION
+All computers must be in a single geographic location and belong to the same company or household that holds the license to use the fonts. You can purchase additional licenses at any time, which grant you the rights to use the fonts on additional computers. 
+
+LAPTOPS
+The fonts may be used on a laptop as a secondary or alternate computer for after-hours or off-site use by the same user. Additional users require additional licenses.  
+
+CLIENTS AND END USERS
+If are a designer/agency/studio and are providing the fonts to your client, they are required to have their own license appropriate for their use. When purchasing licenses on behalf of a client, they should be made aware of this agreement as all of its terms still apply to them.
+
+SERVER INSTILLATION 
+You may install and use the fonts on a single file server for use on a local area network (LAN) only when the use is limited to the total number of users who could use the font, not the total number of users who might have access to the fonts at any one time. Use of the fonts on a wide area network (WAN), including access for use via the internet, requires the purchase of a special license.
+
+ARCHIVING
+You are allowed to make an archival copy of the fonts exclusively for the purpose of backing up the fonts. You are not allowed to send copies of the fonts to people outside of your organization. 
+
+MODIFICATIONS
+You may not commission a third party to modify the fonts without first obtaining written permission from Okay Type. You many not sell, distribute, or give away modified versions of the fonts. You may modify the fonts for your own purposes, at your own risk, but the copyright will remain with Okay Type and the number of computers allowed remains the same, and all terms of this agreement still apply. 
+
+SERVICE BUREAUS
+If necessary, you may send a copy of the fonts to a commercial printer or service bureau only if they agree to use it exclusively for your work, agree to the terms of this license, and erase their copies when the job is completed. If they are providing typesetting services or editing the document they much purchase their own license.
+
+WEB EMBEDDING
+The fonts may not be used with any internet font replacement technologies not explicitly addressed below without first obtaining written permission from Okay Type. Under no circumstances do these terms allow access to the fonts by a third party.
+
+WEB EMBEDDING IN FLASH
+The fonts may be be embedded as dynamic Flash text only if an additional license is purchased for the web server itself and the proper steps are taken to protect the font data, this includes: 1. The fonts are subset, and 2: The "protect from import" option is enabled. If a server hosts dynamic Flash content for more than one web site, or multiple servers are used, you must purchase a license for each website or server.
+
+WEB EMBEDDING WITH sIFR
+The fonts may be used with sIFR technology only if an additional license is purchased for the web server itself and the proper steps are taken to protect the font data, this includes: 1. The font is subset, 2. Edit the customize_me.as file to prevent other sites from accessing and leeching the files by changing the allowedDomains array to include only the domain of the licensed web server (instead of "*"), and 3. set the allowlocal to "false". If a server hosts sIFR versions of the font for more than one web site, or multiple servers are used, you must purchase a license for each website or server.
+
+WEB EMBEDDING WITH CUFON
+The fonts may be used with Cufon technology only if an additional license is purchased for the web server itself and the files are subset and URL-bound to a single authorized web site. If a server hosts these versions of the font for more than one web site, or multiple servers are used, you must purchase a license for each website or server.
+
+WEB EMBEDDING WITH WEFT/EOT
+The fonts may be used Embedded-OpenType (EOT) technology only if an additional license is purchased for the web server itself and the files are subset and URL-bound to a single authorized web site. If a server hosts these versions of the font for more than one web site, or multiple servers are used, you must purchase a license for each website or server.
+
+WEB EMBEDDING WITH @FONT-FACE, TYPEFACE.JS, fLIR
+The fonts may NOT be used with @font-face, typeface.js, or fLIR technology. Consider one of the above methods.
+
+RESTRICTED USE IN ALPHABET OR LETTERFORM-RELATED PRODUCTS
+You many not use the fonts in any alphabet or letterform-related products, or letterform creation products or devices, without first obtaining written permission from Okay Type. This includes but is not limited to scrap-booking and signage products that involve the reproduction of individual letterforms. 
+
+RESTRICTED USE IN ELECTRONIC DEVICES, SOFTWARE, AND VIDEO GAMES
+You must obtain written permission from Okay Type before embedding the fonts in any electronic device, video game, or other software. Any such use requires the express written permission of Okay Type and, in some cases, may require a license upgrade. 
+
+PDF EMBEDDING
+You may embed the fonts into an electronic document, such as a PDF, that you send to a third party for only for the purposes of proofing, printing, or other physical reproduction, provided that document is read-only (allows no editing). Embedding the fonts in a PDF for public distribution, such as linking from a website or as an email newsletter, is not allowed without obtaining written permission from Okay Type, and, in some cases, may require a license upgrade. 
+
+OTHER EMBEDDING
+The fonts can not be embedded in Word or PowerPoint documents.
+
+RESTRICTED USE IN BROADCAST AND FILM
+Use of the fonts in titling, credits, or other forms in television, internet, or motion picture titling is limited to an annual season or initial release. Licensing must be renewed prior to following seasons (whether original or re-run) or additional release (foreign or other re-release.). Additional licensing options are available by contacting Okay Type.
+
+TROUBLESHOOTING
+If you experience any technical difficulties with Okay Type fonts, we will do everything we can to help you resolve the issue. If, after attempting to solve the issue, you are still unsatisfied with the technical performance of the fonts, we will refund your money, which will be the limit of our liability. 
+
+TRANSFERRING
+This license is issued to you, the purchaser, and can only be transferred after notifying Okay Type with the details of the transfer and obtaining written permission from Okay Type. You may not resell the license.
+
+OTHER TERMS
+The agreement is effective until terminated. Okay Type has the right to terminate your license immediately if you fail to comply with any terms of this Agreement. In addition, Okay Type reserves the right to claim punitive damages. Upon such termination you will destroy any copies of the fonts. Okay Type reserves all rights not expressly granted to you under this agreement. If you are unsure whether your use is permitted, please contact Okay Type.
+
+
+Okay Type & Design LLC
+www.okaytype.com
+
+
+
+
+
+
+
+
